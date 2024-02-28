@@ -33,4 +33,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto de um Fake Pinterest desenvolvido no evento "HTML e CSS na Prática" da RocketSeat com o objetivo de treinar e aprimorar habilidades.
+Projeto de um Fake Pinterest desenvolvido no evento "HTML e CSS na Prática" da Rocketseat com o objetivo de treinar e aprimorar habilidades.
